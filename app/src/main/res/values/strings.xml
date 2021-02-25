@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="title">Tic Tac Toe</string>
+
+    //Player name page activity
+    <string name="PlayerName">Enter Your Name</string>
+    <string name="Label1">Player 1</string>
+    <string name="Label2">Player 2</string>
+    <string name="nameHint">Enter Your Name</string>
+    <string name="buttonName">Submit Names</string>
+
+    //Game Dipslay Page
+    <string name="playAgain">Play Again</string>
+    <string name="home">Home</string>
+</resources>
